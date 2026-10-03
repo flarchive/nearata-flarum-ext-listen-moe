@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-listen-moe.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-listen-moe) or the [upstream repository](https://github.com/Nearata/flarum-ext-listen-moe).
 
-**0** versions archived · Latest: [`v2.1.0`](https://github.com/flarchive/nearata-flarum-ext-listen-moe/tree/archive/v2.1.0) · License: `Unlicense` · Flarum: `^1.6.0`
+**7** versions archived · Latest: [`v2.1.0`](https://github.com/flarchive/nearata-flarum-ext-listen-moe/tree/archive/v2.1.0) · License: `Unlicense` · Flarum: `^1.6.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2021-04-13 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-listen-moe/tree/archive/v1.0.0) |
+| `v1.0.1` | 2021-04-13 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-listen-moe/tree/archive/v1.0.1) |
+| `v1.1.0` | 2021-04-22 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-listen-moe/tree/archive/v1.1.0) |
+| `v1.1.1` | 2021-04-22 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-listen-moe/tree/archive/v1.1.1) |
+| `v2.0.0` | 2021-06-20 | `^1.0.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-listen-moe/tree/archive/v2.0.0) |
+| `v2.0.1` | 2022-08-31 | `^1.0.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-listen-moe/tree/archive/v2.0.1) |
+| `v2.1.0` | 2023-01-21 | `^1.6.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-listen-moe/tree/archive/v2.1.0) |
 
 Catalog entry: [packages/nearata-flarum-ext-listen-moe.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-listen-moe.json)
 
